@@ -43,7 +43,7 @@ The most **up to date** list of Dendron docs, talks, tools, examples, articles, 
   - [Markdown Enhancers](#markdown-enhancers)
   - [Spellcheck, Linters, and Style Guides](#spellcheck-linters-and-style-guides)
   - [Git](#git)
-  - [Vim bindings and more](#vim-bindings-and-more)
+  - [Vim](#vim)
   - [Coding](#coding)
   - [Other](#other)
 - [Dendron Enhancers](#dendron-enhancers)
@@ -134,7 +134,7 @@ The most **up to date** list of Dendron docs, talks, tools, examples, articles, 
 - [GitGraph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want.
 - [Path AutoComplete](https://github.com/ionutvmi/path-autocomplete) - Path autocomplete for Visual Studio Code.
 
-### Vim bindings and more
+### Vim
 
 > For [Vim](https://www.vim.org/) and [NeoVim](https://neovim.io/) lovers.
 
