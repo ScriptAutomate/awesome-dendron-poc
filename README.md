@@ -6,7 +6,7 @@
 # Awesome Dendron
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![lint](https://github.com/dendronhq/awesome-dendron/actions/workflows/lint.yaml/badge.svg)](https://github.com/dendronhq/awesome-dendron/actions/workflows/lint.yaml)
+[![lint](https://github.com/scriptautomate/awesome-dendron-poc/actions/workflows/lint.yaml/badge.svg)](https://github.com/scriptautomate/awesome-dendron-poc/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -188,4 +188,4 @@ Contributions of any kind welcome, just follow the [contributing guide](contribu
 
 ### Contributors
 
-Thanks to [these contributors](https://github.com/dendronhq/awesome-dendron/graphs/contributors) for the continued growth of this awesome list!
+Thanks to [these contributors](https://github.com/scriptautomate/awesome-dendron-poc/graphs/contributors) for the continued growth of this awesome list!
